@@ -1,0 +1,7 @@
+C:\Users\nkuda\source\repos\shariki\obj\Debug\net3.0-windows\shariki.csproj.AssemblyReference.cache
+C:\Users\nkuda\source\repos\shariki\obj\Debug\net3.0-windows\shariki.Form1.resources
+C:\Users\nkuda\source\repos\shariki\obj\Debug\net3.0-windows\shariki.csproj.GenerateResource.cache
+C:\Users\nkuda\source\repos\shariki\obj\Debug\net3.0-windows\shariki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkuda\source\repos\shariki\obj\Debug\net3.0-windows\shariki.AssemblyInfoInputs.cache
+C:\Users\nkuda\source\repos\shariki\obj\Debug\net3.0-windows\shariki.AssemblyInfo.cs
+C:\Users\nkuda\source\repos\shariki\obj\Debug\net3.0-windows\shariki.csproj.CoreCompileInputs.cache
